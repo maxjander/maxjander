@@ -5,7 +5,7 @@ const About = () => {
 	return (
 		<Wrapper>
 			<h1>Max Jander</h1>
-			<p>Im A Front-end student, with history in sales and restaurant management.</p>
+			<p>I'm A Front-end student, with history in sales and restaurant management.</p>
 			<p>During my school period i've been working extra as a driver and a chef.</p>
 			<ul>
 				<h3>[...]</h3>
